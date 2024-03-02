@@ -1,6 +1,6 @@
-![MasterHead](https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif)
 <h1 align="center">Hi 👋, I'm Rahul Goswami</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
+<p align = "Center"><img src = "https://i.pinimg.com/originals/d1/7b/48/d17b48444021c047dd006dd632da4955.gif" width = "400px"></p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
