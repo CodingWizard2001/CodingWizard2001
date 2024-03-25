@@ -24,6 +24,9 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 </p>
 
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=CodingWizard2001&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=CodingWizard2001&theme=react" />
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=CodingWizard2001&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+<a href="https://github.com/CodingWizard2001/github-stats">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodingWizard2001&show_icons=true&locale=en&layout=compact&theme=tokyonight" /></p>
 
