@@ -32,8 +32,8 @@
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=CodingWizard2001&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 <a href="https://github.com/CodingWizard2001/github-stats">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodingWizard2001&show_icons=true&locale=en&layout=compact&theme=tokyonight" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodingWizard2001&show_icons=true&locale=en&layout=compact&theme=tokyonight" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CodingWizard2001&show_icons=true&locale=en&theme=tokyonight"/></p>
 
 ### 📈 Weekly Development Breakdown
